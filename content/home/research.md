@@ -80,16 +80,6 @@ subtitle = ""
 ## Working Papers
 * Rebel Territory Control and Displacement (Under Review)
 * Younger and Bolder: Short-Term Effects of Repression on Voting with Evidence from Turkey (Under Review)
-* Effect of Group Status and Conflict on National Identity: Evidence from Post-Brexit Northern Ireland (with Miceal Canavan) (Under Review)
-* The effect of terrorist attacks on attitudes and its duration (with Thomas Chadefaux) (Under Review)
-* Look Who Perpetrates Violence: Explaining the Variation in Forced Migration (Under Review)
-* The effect of migration on political support for co-ethnics: Evidence from Turkey (with Miceal Canavan) (Under Review)
-* From Family But not Party: Political Dynasties and Electoral Success (with Kelsi Power-Spirlet) (Under Review)
-* Legitimization-by-Association: The Political Consequences of Peace Talks with Rebel Representatives (with Miceal Canavan)
-* When to Go? - A Conjoint Experiment on Social Networks, Violence and Forced Migration Decisions in Eastern and Southeastern Turkey" (with Sigrid Weber)
 
 ## Work in Progress
-* The Economic Limits Of Empathy? Analyzing Variation in the Attitudes of Oppressed Minority Groups towards Refugees" (with Ahmet Icduygu and Miceal Canavan)
-* Waiting to Look for a Job: Effect of Asylum Application Processes on Refugees' Employment with Evidence from a Natural Experiment in Ireland
-* Conflict, Military Service, and Political Attitudes: Evidence from a Quasi-Experiment (with Miceal Canavan)
-* Talking to "Enemy": Varying Effect of Contacting to Out-Group (with Miceal Canavan)
+* Explaining variation in unintentional civilian casualties (with Oguzhan Turkoglu)
