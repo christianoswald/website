@@ -28,13 +28,13 @@ education:
     year: 2021 (expected)
   - course: MA in International Relations (Research Track)
     institution: University of Nottingham
-    year: 2014
+#    year: 2014
   - course: MA in Political Science
     institution: University of Mannheim
-    year: 2014
+#    year: 2014
   - course: BA in Political Science
     institution: University of Mannheim
-    year: 2009
+#    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
