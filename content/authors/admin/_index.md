@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christian Oswald
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Trinity College Dublin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Violence
+- Computational Social Science
+- Quantitative Methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Science
+    institution: Trinity College Dublin
+    year: 2021 (expected)
+  - course: MA in International Relations (Research Track)
+    institution: University of Nottingham
+    year: 2014
+  - course: MA in Political Science
+    institution: University of Mannheim
+    year: 2014
+  - course: BA in Political Science
+    institution: University of Mannheim
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '"mailto:coswald@tcd.ie"'  # For a direct email link, use "mailto:test@example.org"/otherwise /#contact.
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/teamoswald
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=vn6zkwYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/christianoswald
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a doctoral researcher and teaching assistant at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](https://www.tcd.ie/). I am also a member of the [Research School on Peace & Conflict](http://www.peaceconflictresearch.org/) at the [Peace Research Institute Oslo](https://www.prio.org/).  I earned a B.A. and M.A. in Political Science from the [University of Mannheim](https://www.uni-mannheim.de/en/) and an M.A. in International Relations (Research Track) from the [University of Nottingham](https://www.nottingham.ac.uk/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work has been published in [*International Studies Quarterly*](https://doi.org/10.1093/isq/sqaa009). My [research](https://christianoswald.github.io/research/) interests are explaining and predicting political violence and instability. This includes, but is not limited to, terrorism & insurgencies, civil conflicts, and non-traditional security issues. Methodologically, I am interested in both frequentist and Bayesian statistics, computational social science, formal models, spatial analyses and multi-method research. My dissertation seeks to investigate the links between terrorism and civil conflicts using conflict event data and various methodological approaches with an emphasis on quantitative and mathematical methods.
