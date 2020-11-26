@@ -82,4 +82,4 @@ subtitle = ""
 * "The revolution will not be typewritten: Comparing topics among the three generations of the Red Army Faction"
 
 ## Work in Progress
-* Explaining variation in unintentional civilian casualties (with Oguzhan Turkoglu)
+* "Explaining variation in unintentional civilian casualties in civil conflicts" (with Oguzhan Turkoglu)
