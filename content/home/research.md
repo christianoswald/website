@@ -78,8 +78,8 @@ subtitle = ""
 
 
 ## Working Papers
-* Rebel Territory Control and Displacement (Under Review)
-* Younger and Bolder: Short-Term Effects of Repression on Voting with Evidence from Turkey (Under Review)
+* "Click, click boom: Using Wikipedia metadata to predict changes in battle-related deaths" (with Daniel Ohrenhofer)
+* "The revolution will not be typewritten: Comparing topics among the three generations of the Red Army Faction"
 
 ## Work in Progress
 * Explaining variation in unintentional civilian casualties (with Oguzhan Turkoglu)
