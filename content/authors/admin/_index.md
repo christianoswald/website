@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '"mailto:coswald@tcd.ie"'  # For a direct email link, use "mailto:test@example.org"/otherwise /#contact.
+  link: 'mailto:coswald@tcd.ie'  # For a direct email link, use "mailto:test@example.org"/otherwise /#contact.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/teamoswald
