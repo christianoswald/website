@@ -82,8 +82,8 @@ subtitle = ""
 
 ## Teaching Assistant
 * Spring 2020: PO8006 Introduction to Quantitative Research Methods (Masters)
-* Spring 2020: POU33102 Political Violence and Conflict in Comparative Context (Undergraduate)
-* Fall 2019: POU33091 Theories of Political Violence and Conflict (Undergraduate)
+* Spring 2020: POU33102 International Relations B: Topics and Treaties (Undergraduate)
+* Fall 2019: POU22021 International Relations A: Theories of International Politics (Undergraduate)
 * Spring 2019: PO2141 International Relations B: Topics and Treaties (Undergraduate)
 * Fall 2018: PO2140 International Relations A: Theories of International Politics (Undergraduate)
 * 2017-2018: PO2640 International Relations (Undergraduate)
