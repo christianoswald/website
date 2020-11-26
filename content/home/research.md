@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
@@ -22,6 +22,7 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -53,7 +54,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -66,3 +67,28 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## Peer-Reviewed Publications
+* Oguzhan Turkoglu and Thomas Chadefaux. 2019. [Nowhere to Go: Why do Some Civil Wars Generate more Refugees than Others?](https://doi.org/10.1093/isq/sqaa009), *International Studies Quarterly* 64(2), 295-305.
+
+<!-- [Replication](https://doi.org/10.7910/DVN/UVTZZV) -->
+
+<!-- * Supporting Rebels and Hosting Refugees: Explaining the Variation in Refugee Flows in Civil Conflicts (conditionally accepted for publication at *Journal of Peace Research*) -->
+
+
+## Working Papers
+* Rebel Territory Control and Displacement (Under Review)
+* Younger and Bolder: Short-Term Effects of Repression on Voting with Evidence from Turkey (Under Review)
+* Effect of Group Status and Conflict on National Identity: Evidence from Post-Brexit Northern Ireland (with Miceal Canavan) (Under Review)
+* The effect of terrorist attacks on attitudes and its duration (with Thomas Chadefaux) (Under Review)
+* Look Who Perpetrates Violence: Explaining the Variation in Forced Migration (Under Review)
+* The effect of migration on political support for co-ethnics: Evidence from Turkey (with Miceal Canavan) (Under Review)
+* From Family But not Party: Political Dynasties and Electoral Success (with Kelsi Power-Spirlet) (Under Review)
+* Legitimization-by-Association: The Political Consequences of Peace Talks with Rebel Representatives (with Miceal Canavan)
+* When to Go? - A Conjoint Experiment on Social Networks, Violence and Forced Migration Decisions in Eastern and Southeastern Turkey" (with Sigrid Weber)
+
+## Work in Progress
+* The Economic Limits Of Empathy? Analyzing Variation in the Attitudes of Oppressed Minority Groups towards Refugees" (with Ahmet Icduygu and Miceal Canavan)
+* Waiting to Look for a Job: Effect of Asylum Application Processes on Refugees' Employment with Evidence from a Natural Experiment in Ireland
+* Conflict, Military Service, and Political Attitudes: Evidence from a Quasi-Experiment (with Miceal Canavan)
+* Talking to "Enemy": Varying Effect of Contacting to Out-Group (with Miceal Canavan)
