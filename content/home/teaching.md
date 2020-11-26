@@ -81,9 +81,9 @@ subtitle = ""
 * Fall 2020: POU44251 Politics of Forced Migration (Undergraduate)  [syllabus](files/politics_of_forced_migration_syllabus.pdf) -->
 
 ## Teaching Assistant
-* Spring 2020: PO8006 Introduction to Quantitative Research Methods (Masters)
-* Spring 2020: POU33102 International Relations B: Topics and Treaties (Undergraduate)
+* Fall 2020: POU22021 International Relations A: Theories of International Politics (Undergraduate)
+* Spring 2020: POU22022 International Relations B: Topics and Treaties (Undergraduate)
 * Fall 2019: POU22021 International Relations A: Theories of International Politics (Undergraduate)
 * Spring 2019: PO2141 International Relations B: Topics and Treaties (Undergraduate)
 * Fall 2018: PO2140 International Relations A: Theories of International Politics (Undergraduate)
-* 2017-2018: PO2640 International Relations (Undergraduate)
+* 2017-2018: PO1600 Introduction to Political Science (Undergraduate)
