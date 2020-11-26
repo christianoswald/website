@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Trinity College Dublin
+- name: Department of Political Science, Trinity College Dublin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
