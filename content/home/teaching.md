@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -61,7 +61,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -74,3 +74,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+## Instructor
+* Fall 2018 - 2020: Political Science Math Camp (PhD) - [syllabus](files/math_camp_syllabus.pdf)
+* Fall 2020: POU44251 Politics of Forced Migration (Undergraduate)  [syllabus](files/politics_of_forced_migration_syllabus.pdf)
+
+## Teaching Assistant
+* Spring 2020: PO8006 Introduction to Quantitative Research Methods (Masters)
+* Spring 2020: POU33102 Political Violence and Conflict in Comparative Context (Undergraduate)
+* Fall 2019: POU33091 Theories of Political Violence and Conflict (Undergraduate)
+* Spring 2019: PO2141 International Relations B: Topics and Treaties (Undergraduate)
+* Fall 2018: PO2140 International Relations A: Theories of International Politics (Undergraduate)
+* 2017-2018: PO2640 International Relations (Undergraduate)
