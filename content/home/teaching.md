@@ -85,5 +85,5 @@ subtitle = ""
 * Spring 2020: POU22022 International Relations B: Topics and Treaties (Undergraduate)
 * Fall 2019: POU22021 International Relations A: Theories of International Politics (Undergraduate)
 * Spring 2019: PO2141 International Relations B: Topics and Treaties (Undergraduate)
-* Fall 2018: PO2140 International Relations A: Theories of International Politics (Undergraduate)
+* Fall 2018/2019/2020: PO2140 International Relations A: Theories of International Politics (Undergraduate)
 * 2017-2018: PO1600 Introduction to Political Science (Undergraduate)
