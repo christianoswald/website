@@ -26,17 +26,17 @@ interests:
 education:
   courses:
   - course: PhD in Political Science
-    institution: Trinity College Dublin
+    institution: Trinity College Dublin, Ireland
     year: 2021 (expected)
   - course: MA in International Relations (Research Track)
-    institution: University of Nottingham
-#    year: 2014
+    institution: University of Nottingham, United Kingdom
+    year: 2014
   - course: MA in Political Science
-    institution: University of Mannheim
-#    year: 2014
+    institution: University of Mannheim, Germany
+    year: 2014
   - course: BA in Political Science
-    institution: University of Mannheim
-#    year: 2009
+    institution: University of Mannheim, Germany
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
