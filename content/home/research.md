@@ -82,4 +82,7 @@ subtitle = ""
 * "The revolution will not be typewritten: Comparing topics among the three generations of the Red Army Faction"
 
 ## Work in Progress
+* "Margin of (t)error: Predicting the onset and incidence of terrorism in civil conflicts"
+* "Explaining the timing and location of terrorism in civil conflicts: Causal inference with spatiotemporal event data"
+* "Explaining the location of escalating government violence in civil conflicts: A spatial instrumental variable approach"
 * "Explaining variation in unintentional civilian casualties in civil conflicts" (with Oguzhan Turkoglu)
