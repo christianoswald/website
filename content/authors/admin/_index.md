@@ -18,8 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Political Violence
-- Computational Social Science
+- International Conflict
 - Quantitative Methods
+- Computational Social Science
+- Quantitative Text Analysis
 
 education:
   courses:
