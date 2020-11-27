@@ -21,7 +21,6 @@ interests:
 - International Conflict
 - Quantitative Methods
 - Computational Social Science
-- Quantitative Text Analysis
 
 education:
   courses:
