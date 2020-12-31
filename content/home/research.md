@@ -85,4 +85,4 @@ subtitle = ""
 ## Work in Progress
 * "Explaining the timing and location of terrorism in civil conflicts: Causal inference with spatiotemporal event data"
 * "Explaining the location of escalating government violence in civil conflicts: A spatial instrumental variable approach"
-* "Explaining variation in unintentional civilian casualties in civil conflicts" (with Oguzhan Turkoglu)
+* "Explaining variation in unintentional civilian casualties in civil conflicts" *with Oguzhan Turkoglu*
