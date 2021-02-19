@@ -80,7 +80,7 @@ subtitle = ""
 ## Working Papers
 * "Click, click boom: Using Wikipedia metadata to predict changes in battle-related deaths" *with Daniel Ohrenhofer* (under review)
 * "The revolution will not be typewritten: Comparing topics among the three generations of the Red Army Faction"
-* "Margin of (t)error: Predicting the onset and incidence of terrorism in civil conflicts"
+* "Margin of (t)error: Predicting terrorism in civil conflicts"
 
 ## Work in Progress
 * "Explaining the timing and location of terrorism in civil conflicts: Causal inference with spatiotemporal event data"
