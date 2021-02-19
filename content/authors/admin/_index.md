@@ -17,10 +17,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Political Violence
-- International Conflict
-- Quantitative Methods
-- Computational Social Science
+- Political violence
+- International & civil conflict
+- Quantitative methods
+- Computational social science
 
 education:
   courses:
