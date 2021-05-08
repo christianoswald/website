@@ -69,8 +69,7 @@ subtitle = ""
 +++
 
 ## Peer-Reviewed Publications
-* Christian Oswald, Melanie Sauter, Sigrid Weber and Rob Williams. 2019. [Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone
-](https://doi.org/10.1093/isq/sqaa009). *International Studies Quarterly* 64 (2): 295-305. [Replication material](https://doi.org/10.7910/DVN/BEKPWV)
+* Christian Oswald, Melanie Sauter, Sigrid Weber and Rob Williams. 2019. Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone. *International Studies Quarterly* 64 (2): 295-305. ([article](https://doi.org/10.1093/isq/sqaa009), [blog post](http://quantitativepeace.com/blog/2020/04/civilian-victimization-and-rebel-territorial-control-in-sierra-leone.html), [replication material](https://doi.org/10.7910/DVN/BEKPWV))
 
 <!-- [Replication](https://doi.org/10.7910/DVN/UVTZZV) -->
 
