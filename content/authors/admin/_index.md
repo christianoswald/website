@@ -35,7 +35,7 @@ education:
     year: 2014
   - course: BA in Political Science
     institution: University of Mannheim, Germany
-    year: 2009
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
