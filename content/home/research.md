@@ -82,6 +82,6 @@ subtitle = ""
 * "Margin of (t)error: Predicting terrorism in civil conflicts for theory building and improvement"
 
 ## Work in Progress
-* "Explaining the timing and location of terrorism in civil conflicts: Causal inference with spatiotemporal event data"
+* "“Explaining the timing and location of terrorism in civil conflicts: A causal inference approach with spatiotemporal event data"
 * "Explaining the location of escalating government violence in civil conflicts"
 * "Explaining variation in unintentional civilian casualties in civil conflicts" *with Oguzhan Turkoglu*
