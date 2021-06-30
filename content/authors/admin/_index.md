@@ -54,6 +54,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8291-9544
+- icon: database
+  icon_pack: fas
+  link: https://dataverse.harvard.edu/dataverse/christianoswald
 - icon: github
   icon_pack: fab
   link: https://github.com/christianoswald
